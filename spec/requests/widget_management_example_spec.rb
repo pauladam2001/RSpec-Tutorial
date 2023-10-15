@@ -19,7 +19,7 @@ RSpec.describe "Widget management", type: :request do
     expect(response).to_not render_template(:show)
   end
 
-  it "creates a Widget" do
+  it "creates a Widget" do  # requesting a JSON response
     headers = { "ACCEPT" => "application/json" }
     post "/widgets", :params => { :widget => {:name => "My Widget"} }, :headers => headers
 
