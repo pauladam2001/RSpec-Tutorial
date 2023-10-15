@@ -1,0 +1,18 @@
+current directory: /Users/pauladam/Documents/rspec_tutorials/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/pauladam/.rbenv/versions/3.0.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/pauladam/Documents/rspec_tutorials/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20231015-96258-optcii sitelibdir\=./.gem.20231015-96258-optcii clean
+
+current directory: /Users/pauladam/Documents/rspec_tutorials/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20231015-96258-optcii sitelibdir\=./.gem.20231015-96258-optcii
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/pauladam/Documents/rspec_tutorials/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20231015-96258-optcii sitelibdir\=./.gem.20231015-96258-optcii install
+/opt/homebrew/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20231015-96258-optcii/skiptrace/internal
+
+current directory: /Users/pauladam/Documents/rspec_tutorials/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20231015-96258-optcii sitelibdir\=./.gem.20231015-96258-optcii clean

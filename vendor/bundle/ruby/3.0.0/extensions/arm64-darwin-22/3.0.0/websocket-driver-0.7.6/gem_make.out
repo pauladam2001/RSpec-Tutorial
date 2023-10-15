@@ -1,0 +1,18 @@
+current directory: /Users/pauladam/Documents/rspec_tutorials/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/pauladam/.rbenv/versions/3.0.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/pauladam/Documents/rspec_tutorials/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231015-96258-guckxf sitelibdir\=./.gem.20231015-96258-guckxf clean
+
+current directory: /Users/pauladam/Documents/rspec_tutorials/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231015-96258-guckxf sitelibdir\=./.gem.20231015-96258-guckxf
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/pauladam/Documents/rspec_tutorials/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231015-96258-guckxf sitelibdir\=./.gem.20231015-96258-guckxf install
+/opt/homebrew/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20231015-96258-guckxf
+
+current directory: /Users/pauladam/Documents/rspec_tutorials/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231015-96258-guckxf sitelibdir\=./.gem.20231015-96258-guckxf clean
